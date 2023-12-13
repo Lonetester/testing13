@@ -1,0 +1,3 @@
+it is b.txt first line
+newly added line to b.txt
+
